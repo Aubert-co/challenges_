@@ -6,7 +6,7 @@
   "author": "Black <53127242+Aubert-co@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest uniquenumbers.test.js"
+    "test": "jest /*.test"
   },
   "dependencies": {
     "@types/jest": "^29.5.1",
